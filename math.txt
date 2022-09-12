@@ -1,0 +1,28 @@
+Input:Let f : A to B be a diff func and sps A is equipped with a grp action.
+Output:Let $f : A \to B$ be a differential function and suppose $A$ is equipped with a group action.
+
+Input:Ass for cont that g is not an irr poly.
+Output:Assume for contradiction that $g$ is not an irreducible polynomial.
+
+Input:Ass alpha is a non-zero elem in the field ext K / F
+Output:Assume  $\alpha$ is a non-zero element in the field extension $K/F$.
+
+Input:Hello, this is bogus and just normal text. Don't even bother.
+Output:Hello, this is bogus and just normal text. Don't even bother.
+
+Input:Let A = {1, 2,3} and B = {ints that have 2 or 5 as div}
+Output:Let $A = \{1, 2, 3\}$ and $B$ be the set of integers that have $2$ or $5$ as a divisor.
+
+Input:If j homo from G to H , then j preserves the group operations
+Output:If $j$ is a homomorphism from $G$ to $H$, then $j$ preserves the group operations.
+
+Input:If we have something which is not true then lol. Who cares?
+Output:If we have something which is not true then lol. Who cares?
+
+Input:Sps for cont g has a root beta. Then the min poly divs g.
+Output:Suppose for contradiction that $g$ has a root $\beta$. Then the minimal polynomial of $\beta$ would divide $g$.
+
+Input:If g: A -> B is a perfect fnc then it has an inv, g^-1
+Output:If $g : A \to B$ is a perfect function, then it has an inverse, $g^{-1}$.
+
+Input:
